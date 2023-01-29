@@ -1,0 +1,26 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>VEHICLES</title>
+<style>
+h1 {text-align: center;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<h1>1. CLICK ON THE SCOOTY<br>
+        or<br>
+2. CLICK ON THE CYCLE<br>
+        or <br>
+3. CLICK ON THE HELICOPTER</h1>
+<img src="C:\Users\bavaa\Downloads\IMG_20230128_192517.jpg" alt="VEHICLES" usemap="#vehicles">
+<map name="vehicles">
+<area shape="poly" coords="103,180,109,96,160,43,231,44,331,45,338,103,338,171,302,210,236,185,165,210,167,186" href="scooty.html">
+<area shape="poly" coords="401,173,414,138,436,119,478,96,503,67,573,61,583,101,613,126,617,171,566,201,516,173,448,201" href="cycle.html" target="_blank">
+<area shape="poly" coords="688,180,707,132,776,107,811,65,854,41,894,69,903,112,915,172,869,204,804,182,735,199" href="helicopter.html" target="_blank">
+</html>
+</body>

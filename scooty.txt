@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<title>VEHICLES</title>
+<style>
+h1 {text-align: center;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<h1>SCOOTY</h1>
+<img src="C:\Users\bavaa\Downloads\IMG_20230128_193614.jpg" alt="VEHICLES" usemap="#vehicles">
+<map name="vehicles">
+<p>Scooty is an Indian brand of Scooters manufactured by TVS Motors. Designed for women,
+Scooty is the largest selling Scooter brand in its segment. It has come to represent a generic name for any women's two-wheeler in India</p><br>
+<h2>IDEAL ADMIN PANEL</h2>Aside from information and user management, here are the other key features commonly found in admin panels: Management of products, workflows, forms, and other core processes that deal with the very purpose of the app (e.g. order management for eCommerce platforms; form-builder for data collection apps)</p><h2>MOBILE APPLICATION FOR DRIVER AND PASSENGER</h2><p>vUber is most highly rated for Work/life balance and Rapido Bike Taxi is most highly rated for Culture. Learn more, read reviews and see open jobs.</p>
+<br><h2>EFFORTLESS SIGNUP PROCESS</h2><p>The feeling of excitement of owning a bike or a scooter can be unparalleled. Buying a two-wheeler can be one of the most important aspects of one’s life journey. You will be investing your hard-earned money and you want to be sure how your money is being used by purchasing a new vehicle. Before you buy your dream bike or scooter, you need to be alert and ensure you do not miss out on anything, even the documents required for a new two-wheeler purchase in India. Read on to find out about the documents required while buying a bike from a dealership as well as documents for bike loan or finance..</p>
+</body>
+</html>

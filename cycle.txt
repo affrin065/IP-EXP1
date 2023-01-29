@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<title>VEHICLES</title>
+<style>
+h1 {text-align: center;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<h1>CYCLE</h1>
+<img src="C:\Users\bavaa\Downloads\IMG_20230128_194905.jpg" alt="VEHICLES" usemap="#vehicles">
+<map name="vehicles">
+<p>Because of new technology, there are entries of multiple new features across all vehicles.</p><br>
+<h2>FEATURES</h2>
+<ol>
+<li>Disc Brakes. Disc brakes are a lot better than the conventional brakes that we have on the cycles and are known to provide better stopping power in various conditions.</li>
+<li>Shock Absorbers.</li>
+<li>Headlight and Taillight.</li>
+<li>Bottle Holder.</li>
+<li>Electirc Horn.</li>
+<li>Suspension: On mountain bikes, suspension almost goes hand-in-hand with the frame.</li>
+</ol><br>.
+<h3>BENEFITS OF CYCLING</h3>
+<p>Cycling can help to protect you from serious diseases such as stroke, heart attack, some cancers, depression, diabetes, obesity and arthritis.
+Riding a bike is healthy, fun and a low-impact form of exercise for all ages.
+Cycling is easy to fit into your daily routine by riding to the shops, park, school or work.</p>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+<title>VEHICLES</title>
+<style>
+h1 {text-align: center;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<h1>HELICOPTER</h1>
+<img src="C:\Users\bavaa\Downloads\IMG_20230128_194924.jpg" at="VEHICLES" usemap="#vehicles">
+<map name="vehicles">
+<p>A helicopter is a type of aircraft that uses rotating, or spinning, wings called blades to fly. Unlike an airplane or glider, a helicopter has wings that move. Unlike a balloon, a helicopter is heavier than air and uses an engine to fly.This allows the helicopter to take off and land vertically, to hover, and to fly forward, backward and laterally.</p><br>
+<h2>FEATURES</h2>
+<ol>
+<li>Prevent fuel from igniting on impact.</li>
+<li>Quick release harnesses.</li>
+<li>Floatation devices.</li>
+<li>Impact resistance seats.</li>
+<li>Structural elements.</li>
+</ol>
+<h3>USES OF HELICOPTER</h3>
+<ol>
+<li>Transportation of people and cargo.</li>
+<li>Military uses and construction.</li>
+<li>Search and rescue.</li>
+<li>Firefighting.</li>
+<li>Medical transport and law enforcement.</li>
+</ol>
+</body>
+</html>
